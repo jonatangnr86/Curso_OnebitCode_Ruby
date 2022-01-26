@@ -1,0 +1,7 @@
+# É usado para instalar varias gems 
+# Usado em grandes projetos
+# Executar comando bundle no ternimal dentro da pasta do arquivo
+
+source 'http://rubygems.org'  # Fonte de onde serão instaladas as gems
+
+gem 'cpf_cnpj'                    # Gem a ser instalada
